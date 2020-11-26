@@ -1,1 +1,3 @@
-console.log('aaa')
+const a = 123
+
+console.log(a)
